@@ -22,9 +22,11 @@ node romanNumeralsSpec.js
 
 We want to encourage you to pseudocode your "gameplan" for any challenge before actually coding. Note that we won't mention writing psuedocode all the time, but it's good practice to implement (especially for new coders) when tackling challenges. Here's an example of how one might pseudocode this challenge (again, don't expect us to do this for you for all challenges!).
 
-1. Write a function `toRomanLazy` that takes in a single input, `num`(an arabic number). Note: this step has already been done for you.
+<!-- 1. Write a function `toRomanLazy` that takes in a single input, `num`(an arabic number). Note: this step has already been done for you.
 
-2. Create a variable `output` and set it's initial value to the empty string (`""`)
+2. Create a variable `output` and set it's initial value to the empty string (`""`) -->
+
+
 
 3. Create a variable `romanNumeralToArabic` that holds an object mapping the key of a roman numeral (`V`) to it's arabic equivalent (`5`)
 
